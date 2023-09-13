@@ -1,0 +1,33 @@
+<p>2023, the first place of DASR task of CHiME-7 challenge</p>
+<p>2023, the first place of SELD task of DCASE challenge</p>
+<p>2023, the first place of FSBED task of DCASE challenge</p>
+<p>2022, the first prize of Wu Wenjun AI S&T Award (吴文俊科技进步一等奖)</p>
+<p>2022, the best paper award for ISCSLP</p>
+<p>2022, the first place of SELD task of DCASE challenge</p>
+<p>2022, the first place of FSBED task of DCASE challenge</p>
+<p>2021, the first place of 22 tasks of OpenASR challenge</p>
+<p>2020, the first place of DIHARD-III challenge</p>
+<p>2020, the first place of SELD task of DCASE challenge</p>
+<p>2020, the first place of Track 1 of CHiME-6 challenge</p>
+<p>2020, the first place of ICFHR Competition on OffRaSHME</p>
+<p>2020, APSIPA Distinguished Lecturer (2020-2021)</p>
+<p>2019, the first place of Task1 and Task2 of ICDAR CROHME </p>
+<p>2019, the first place of Task1 of CVPR ODAI challenge</p>
+<p>2018, the first prize for S&T award of Anhui Province (安徽省科技进步一等奖)</p>
+<p>2018 IEEE Signal Processing Society Best Paper Award</p>
+<p>2018, the first place of all four tasks of CHiME-5 challenge</p>
+<p>2018, the first place of all three tasks of ICPR MTWI contest</p>
+<p>2018, the first place of all two tasks of ICPR ODAI contest</p>
+<p>2018, the first place of two tasks of ICHFR competition</p>
+<p>2018, the second place of DIHARD-I challenge</p>
+<p>2016, the first place of all three tasks of CHiME-4 challenge</p>
+<p>2015, the third place of CHiME-3 challenge</p>
+<p>2015, the finalist of best student paper award for INTERSPEECH</p>
+<p>2015, the finalist of best student paper award for LVA/ICA</p>
+<p>2012, MSRA technology transfer award for contribution in Windows Phone 8</p>
+<p>2012, Microsoft Ship-It award for Chinese handwriting recognition</p>
+<p>2012, Microsoft Ship-It award for camera-based translation</p>
+<p>2011, Microsoft Ship-It award for mouse-hovering function in Bing dictionary</p>
+<p>2008, the finalist of best student paper award for ISCSLP</p>
+<p>2006, the finalist of best student paper award for INTERSPEECH</p>
+<p>2006, the finalist of best student paper award for ISCSLP</p>
